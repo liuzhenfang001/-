@@ -24,6 +24,7 @@ https://zhuanlan.zhihu.com/p/74874291
    链接里面关于L1和L2正则的原理和区别讲的很清楚  
    
    #### 多分类问题softmax | OVSO | OVSR
+   https://zhuanlan.zhihu.com/p/62381502  
    
    #### LR与线性回归的区别
    一个分类，一个回归，两者都属于广义线性模型。  
